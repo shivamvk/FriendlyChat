@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597670338393",
+    "firebase_url": "https://justforfun-76fe7.firebaseio.com",
+    "project_id": "justforfun-76fe7",
+    "storage_bucket": "justforfun-76fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597670338393:android:5f99655f54ae35d8",
+        "android_client_info": {
+          "package_name": "com.example.shivamvk.justforfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597670338393-ke5nnm2gl97dpajpl6r1lps86sae58nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivamvk.justforfun",
+            "certificate_hash": "235bd663aa8eae5d0c03c55cd40e2577b986bf9e"
+          }
+        },
+        {
+          "client_id": "597670338393-73rglqnhnv4hnv326imdmmu473nq9hh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHhTT42qOteDl6kSn9gaOZyI8o7IyJI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597670338393-73rglqnhnv4hnv326imdmmu473nq9hh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
